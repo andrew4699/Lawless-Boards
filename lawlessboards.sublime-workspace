@@ -1,0 +1,1271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"date_de",
+				"date_default_timezone_set"
+			],
+			[
+				"Crime",
+				"Crimes"
+			],
+			[
+				"Crack",
+				"Crack"
+			],
+			[
+				"stat",
+				"statisticsBox"
+			],
+			[
+				"statis",
+				"statisticsNavigationItem"
+			],
+			[
+				"stati",
+				"statisticsNavigationCurrent"
+			],
+			[
+				"stats",
+				"statisticsNavigationCurrent"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"randomVe",
+				"randomVehicleColor"
+			],
+			[
+				"SendCl",
+				"SendClientMessageToAll"
+			],
+			[
+				"getP",
+				"getPlayersName"
+			],
+			[
+				"tempora",
+				"temporaryVariable"
+			],
+			[
+				"getPla",
+				"getPlayersIP"
+			],
+			[
+				"SendCli",
+				"SendClientMessageToAll"
+			],
+			[
+				"moderat",
+				"moderatorRanks"
+			],
+			[
+				"cache_",
+				"cache_get_row_int"
+			],
+			[
+				"SendC",
+				"SendClientMessage"
+			],
+			[
+				"SendClent",
+				"SendClientMessageToAll"
+			],
+			[
+				"ClearGame",
+				"ClearGameTextForAll"
+			],
+			[
+				"ev",
+				"eventTimer"
+			],
+			[
+				"cache_get_row",
+				"cache_get_row_int"
+			],
+			[
+				"currenttime",
+				"currentTimeValues"
+			],
+			[
+				"GetPlayerV",
+				"GetPlayerVirtualWorld"
+			],
+			[
+				"getpl",
+				"getPlayersName"
+			],
+			[
+				"INVALID",
+				"INVALID_VEHICLE_ID"
+			],
+			[
+				"modIndex",
+				"modificationIndex"
+			],
+			[
+				"COLOR_L",
+				"COLOR_LIGHTBLUE"
+			],
+			[
+				"GetPlayerVeh",
+				"GetPlayerVehicleID"
+			],
+			[
+				"PlayerDama",
+				"PlayerDamageTimer"
+			],
+			[
+				"GetPlayerVehicle",
+				"GetPlayerVehicleSeat"
+			],
+			[
+				"Speed",
+				"SpeedometerBars"
+			],
+			[
+				"ClearA",
+				"ClearAnimations"
+			],
+			[
+				"Direct",
+				"DirectionsNo"
+			],
+			[
+				"Dir",
+				"DirectionsNo"
+			],
+			[
+				"CreateDY",
+				"CreateDynamic3DTextLabel"
+			],
+			[
+				"DIALOG_joB",
+				"DIALOG_JOBOPTIONS"
+			],
+			[
+				"houses_Create",
+				"houses_CreateIcons"
+			],
+			[
+				"Broad",
+				"BroadcastingText"
+			],
+			[
+				"GetPlayerv",
+				"GetPlayerVehicleID"
+			],
+			[
+				"hExteir",
+				"hExteriorWorld"
+			],
+			[
+				"SetCamer",
+				"SetCameraBehindPlayer"
+			],
+			[
+				"GeTPlay",
+				"GetPlayerCash"
+			],
+			[
+				"SetCam",
+				"SetCameraBehindPlayer"
+			],
+			[
+				"Creat",
+				"CreateDynamicPickup"
+			],
+			[
+				"getPlay",
+				"getPlayersName"
+			],
+			[
+				"tempoar",
+				"temporaryVariable"
+			],
+			[
+				"getPl",
+				"getPlayersName"
+			],
+			[
+				"getPlayer",
+				"getPlayersIP"
+			],
+			[
+				"COLO",
+				"COLOR_WHITE"
+			],
+			[
+				"getpla",
+				"getPlayersIP"
+			],
+			[
+				"CarAlarm",
+				"CarAlarm_Stop"
+			],
+			[
+				"PlayerTex",
+				"PlayerTextDrawDestroy"
+			],
+			[
+				"INVAL",
+				"INVALID_PLAYER_ID"
+			],
+			[
+				"SetVehicle",
+				"SetVehicleZAngle"
+			],
+			[
+				"COLOR_LI",
+				"COLOR_LIGHTBLUE"
+			],
+			[
+				"DIrections",
+				"DirectionsNo"
+			],
+			[
+				"MAX_",
+				"MAX_PLAYERS"
+			],
+			[
+				"PlayerTe",
+				"PlayerTextDrawDestroy"
+			],
+			[
+				"COLOR_LIT",
+				"COLOR_LIGHTPURPLE"
+			],
+			[
+				"DestroyD",
+				"DestroyDynamic3DTextLabel"
+			],
+			[
+				"MAX_DEPAR",
+				"MAX_DEPARTMENTGUNS"
+			],
+			[
+				"DIALOG_DEPREQ",
+				"DIALOG_DEPEDITREQDIV"
+			],
+			[
+				"MAX_DEPARMT",
+				"MAX_DEPARTMENTRANKS"
+			],
+			[
+				"CreateDynamic",
+				"CreateDynamic3DTextLabel"
+			],
+			[
+				"DestroyDynamic",
+				"DestroyDynamic3DTextLabel"
+			],
+			[
+				"MAX_DEP",
+				"MAX_DEPARTMENTS"
+			],
+			[
+				"cache_get_Ro",
+				"cache_get_row_int"
+			],
+			[
+				"DestroyDy",
+				"DestroyDynamicPickup"
+			],
+			[
+				"DestroyDyna",
+				"DestroyDynamic3DTextLabel"
+			],
+			[
+				"doors_Upd",
+				"doors_UpdatePickup"
+			],
+			[
+				"dALlow",
+				"dAllowAdmins"
+			],
+			[
+				"dAllo",
+				"dAllowVehicles"
+			],
+			[
+				"temporary",
+				"temporaryVariable"
+			],
+			[
+				"cache_Get",
+				"cache_get_row_float"
+			],
+			[
+				"Play",
+				"PlayerInfo"
+			],
+			[
+				"commandUs",
+				"commandUsageString"
+			],
+			[
+				"bakg",
+				"background-color"
+			],
+			[
+				"SetPlayer",
+				"SetPlayerSpecialAction"
+			],
+			[
+				"TogglePlay",
+				"TogglePlayerControllable"
+			],
+			[
+				"SetCamera",
+				"SetCameraBehindPlayer"
+			],
+			[
+				"Registration",
+				"RegistrationSecurityCheck"
+			],
+			[
+				"file_",
+				"file_put_contents"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"mysql_c",
+				"mysql_connect"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_Num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_num_",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"mysql_Fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "configuration/main.php",
+			"settings":
+			{
+				"buffer_size": 18934,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/global.css",
+			"settings":
+			{
+				"buffer_size": 4415,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/footer.php",
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 6883,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "thread.php",
+			"settings":
+			{
+				"buffer_size": 29278,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "comment.php",
+			"settings":
+			{
+				"buffer_size": 9929,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "downloadattachment.php",
+			"settings":
+			{
+				"buffer_size": 1244,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "newthread.php",
+			"settings":
+			{
+				"buffer_size": 8095,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "postcomment.php",
+			"settings":
+			{
+				"buffer_size": 7879,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "File Manager/download.php",
+			"settings":
+			{
+				"buffer_size": 2601,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/pawnc.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"template",
+				"ProjectTreeTemplater: Run"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/.htpasswd",
+		"/C/xampp/htdocs/includes/navigation.php",
+		"/C/Users/Main/Desktop/SAMP/SAMP Blank/filterscripts/mapeditor.pwn",
+		"/C/xampp/htdocs/userdata.php",
+		"/C/xampp/htdocs/configuration/main.php",
+		"/C/xampp/htdocs/css/global.css",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/thread.php",
+		"/C/xampp/htdocs/css/comments.css",
+		"/C/xampp/htdocs/deletepost.php",
+		"/C/xampp/htdocs/lock.php",
+		"/C/xampp/htdocs/postcomment.php",
+		"/C/xampp/htdocs/comment.php",
+		"/C/xampp/htdocs/like.php",
+		"/C/xampp/htdocs/newthread.php",
+		"/C/xampp/htdocs/css/notice.css",
+		"/C/xampp/htdocs/test.php",
+		"/C/xampp/htdocs/css/section.css",
+		"/C/xampp/htdocs/category.php",
+		"/C/xampp/htdocs/section.php",
+		"/C/xampp/htdocs/errors/permissions.html",
+		"/C/xampp/htdocs/errors/404.html",
+		"/C/xampp/htdocs/register.php",
+		"/C/xampp/htdocs/configuration/mysql.php",
+		"/C/xampp/htdocs/css/login.css",
+		"/C/xampp/htdocs/css/category.css",
+		"/C/xampp/htdocs/login.php",
+		"/C/xampp/htdocs/logout.php",
+		"/C/Users/Andrew/Desktop/!-projects/News/configuration/main.php",
+		"/C/Users/Andrew/Desktop/!-projects/News/register.php",
+		"/C/Users/Andrew/Desktop/!-projects/News/includes/navigation.php",
+		"/C/xampp/htdocs/css/navigation.css",
+		"/C/Users/Andrew/Desktop/!-projects/!-BASIC FILES/configuration/mysql.php",
+		"/C/xampp/htdocs/dashboard.php",
+		"/C/xampp/htdocs/css/dashboard.css",
+		"/C/xampp/htdocs/css/statistics.css",
+		"/C/xampp/htdocs/statistics.php",
+		"/C/xampp/htdocs/!-projects/LRP Panel/css/navigation.css",
+		"/C/xampp/htdocs/playerlist.php",
+		"/C/xampp/htdocs/grproster.php",
+		"/C/xampp/htdocs/css/roster.css",
+		"/C/xampp/htdocs/logs.php",
+		"/C/xampp/htdocs/!-projects/LRP-Backup2/logs.php",
+		"/C/xampp/htdocs/pagescripts/grproster.php",
+		"/C/xampp/htdocs/!-projects/LRP-Backup/css/roster.css",
+		"/C/xampp/htdocs/!-projects/LRP-Backup2/stats.php",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/boxes.pwn",
+		"/C/xampp/htdocs/css/fonts/fontawesome/font-awesome.css",
+		"/C/xampp/htdocs/includes/closenavigation.php",
+		"/C/xampp/htdocs/css/fonts/stylesheet.css",
+		"/C/xampp/htdocs/css/logs.css",
+		"/C/xampp/htdocs/!-projects/LRP-Backup/logs.php",
+		"/C/xampp/htdocs/includes/grproster.php",
+		"/C/xampp/htdocs/stats.php",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/gamemodes/vcrp.pwn",
+		"/C/xampp/htdocs/includes/footer.php",
+		"/C/xampp/htdocs/css/stats.css",
+		"/C/xampp/htdocs/admin.php",
+		"/C/xampp/htdocs/donations.html",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/!-projects/News/css/popup.css",
+		"/C/xampp/htdocs/!-projects/News/includes/navigation.php",
+		"/C/xampp/htdocs/!-projects/Message Bomber/css/main.css",
+		"/C/Users/Andrew/Desktop/Other/Catalyst Zombie Invasion/server_scripts/Map_Editor.pwn",
+		"/C/Users/Andrew/Desktop/Arms Race/gamemodes/armsrace.pwn",
+		"/C/Users/Andrew/Desktop/Other/Catalyst Roleplay/gamemodes/RPBR.pwn",
+		"/C/Users/Andrew/Desktop/SAMP Blank/new.pwn",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/C#/Build.tmLanguage",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/C#/C#.tmLanguage",
+		"/C/Users/Andrew/Desktop/Other/Catalyst Roleplay/gamemodes/RPBR-nonewlogin.pwn",
+		"/C/Users/Andrew/Desktop/SAMP Blank/filterscripts/fsdebug.pwn",
+		"/C/Users/Andrew/Desktop/Arms Race/filterscripts/mav.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/objects.pwn",
+		"/C/Users/Andrew/Desktop/Arms Race/pawno/include/zcmd.inc",
+		"/C/Users/Andrew/Desktop/Arms Race/pawno/include/sscanf2.inc",
+		"/C/Users/Andrew/Desktop/Arms Race/pawno/include/foreach.inc",
+		"/C/Users/Andrew/Desktop/Arms Race/pawno/include/a_mysql.inc",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/gamemodes/vcrp.sublime-project",
+		"/C/Users/Andrew/Desktop/test.pwn",
+		"/C/Users/Andrew/Desktop/Other/Scripts/Admin Tools/Admin_Tools.pwn",
+		"/C/xampp/htdocs/!-projects/Other/index.php",
+		"/C/xampp/htdocs/css/table.css",
+		"/C/Users/Andrew/Desktop/armsrace.pwn",
+		"/C/Users/Andrew/Desktop/Other/Gang Wars/filterscripts/minigame.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/magicboxes.pwn",
+		"/C/Users/Andrew/Desktop/svLibraries/svCheats.inc",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/pawno/include/gBug.inc",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Andrew/AppData/Local/Temp/fz3temp-1/vcrp.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/anim.pwn",
+		"/C/xampp/htdocs/sendtext.php",
+		"/C/xampp/htdocs/sendmail.php",
+		"/C/xampp/htdocs/penismessage.php",
+		"/C/Users/Andrew/Desktop/svLibraries/physics.inc",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/pawno/pawn.cfg",
+		"/C/Users/Andrew/Desktop/Other/Viligant Roleplay (0.3c)/gamemodes/vgrp.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/test.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/svCoordinates.pwn",
+		"/C/Users/Andrew/Desktop/svLibraries/svAddons.inc",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/pawno/include/KickUpdate.inc",
+		"/C/Users/Andrew/Desktop/mysql.pwn",
+		"/C/Users/Andrew/Desktop/dealwithit.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/pawno/include/mSelection.inc",
+		"/C/Users/Andrew/Desktop/Length Counter/popup.js",
+		"/C/Users/Andrew/Desktop/Length Counter/popup.html",
+		"/C/Users/Andrew/Desktop/Length Counter/manifest.json",
+		"/C/Users/Andrew/Desktop/popup.js",
+		"/C/Users/Andrew/Desktop/popup.html",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/chopper.pwn",
+		"/C/xampp/htdocs/!-projects/virus/forum.php",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/scriptfiles/TD_tutorialRestart.pwn",
+		"/C/Users/Andrew/AppData/Local/Temp/Rar$DI00.322/iTDe.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/velocity.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/velocity",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/scriptfiles/models",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/heli.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/scriptfiles/genders",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/pawnc.sublime-build",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/pawncompile.sublime-build",
+		"/C/Users/Andrew/Desktop/Slope - Copy/filterscripts/TxEditor.pwn",
+		"/C/Users/Andrew/Desktop/SampRconAPI.php",
+		"/C/xampp/htdocs/api/SampRcon.class.php",
+		"/C/xampp/htdocs/info.php",
+		"/C/xampp/htdocs/bans.php",
+		"/C/xampp/htdocs/bugs.php",
+		"/C/xampp/htdocs/control.php",
+		"/C/xampp/htdocs/credits.php",
+		"/C/xampp/htdocs/panel.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"attachments/",
+			"move_uploaded",
+			"insert into ",
+			"$attachmentsData['path']",
+			"downloadattachment",
+			"attachment",
+			"data-like=",
+			"loginbutton",
+			"\"",
+			"Country",
+			"$currentTime",
+			"</ol",
+			"<ol",
+			".animate",
+			"250",
+			"d9542b",
+			"lawlessboards",
+			"rosterbuttons button",
+			"$mData['Username']",
+			"dashboardcontainer",
+			"setobjectmaterial",
+			"createdynamic",
+			"img",
+			"roster",
+			"login-button",
+			">\n",
+			"login-Button",
+			"login-button",
+			"mdata",
+			"mData",
+			"\"",
+			"align='center'",
+			"div",
+			"span",
+			"%d %s",
+			", 5",
+			"shorten",
+			"spawnplayer",
+			"serverupdate",
+			"\"serverupdate",
+			"(",
+			"textdraw",
+			"textdraw2",
+			"racetime",
+			"textdraw1",
+			"textdraw0",
+			"gamestarted",
+			"startnewround",
+			"toggleplayercontrol",
+			"toggleplayercontrl",
+			"playersname[",
+			"public loadrecord",
+			"compareaccountpass",
+			"serverupdate",
+			"temporaryVehicle",
+			"currentmap =",
+			"currentmap",
+			"%d",
+			"toys",
+			"serverupdate",
+			"timefromsec",
+			"serverupdate",
+			"minutes:seconds",
+			"(",
+			"TextDraw",
+			"textdraw0",
+			"compareaccount",
+			"nextvehiclecol",
+			"shadecolors",
+			"speedo",
+			", 15",
+			"vehiclespawntaken",
+			"startnewround",
+			"speedometerbars",
+			"serverupdate",
+			"shadecolors",
+			"< 70",
+			"kick",
+			"startnewround",
+			"spawnplayer",
+			"serverupdate",
+			"startnewround",
+			"serverupdate",
+			"startnewround",
+			"playerid",
+			"serverupdate",
+			"< 45",
+			"45",
+			"speedometer",
+			"TextDraw",
+			"(",
+			"textdraw10",
+			"speedometerbars",
+			"playertextdrawboxcol",
+			"getvehiclespeed",
+			"PlayerTextdraw0",
+			"playertextdraw0",
+			"(",
+			"TextDraw",
+			"compareaccountpass",
+			"random(255)",
+			"serverupdate",
+			"startnewround",
+			"forward public",
+			"playerid",
+			"startnewround",
+			"max_vehicle",
+			"startnewround",
+			"compareaccountpass",
+			"0.0",
+			"new vehiclespawn",
+			"while",
+			"public beginround",
+			"select",
+			"compareaccount",
+			"printl(",
+			"#define color",
+			"public",
+			"pexplosivebullets] = false",
+			"random(10)",
+			"public startrou",
+			"public startround",
+			"0, 0, 0",
+			"blue",
+			"playerid",
+			"blue",
+			"startnewround",
+			"roundResults[1]4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"boxButton",
+			"'",
+			"$timeDifference",
+			"</ul",
+			"<ul",
+			".stop().animate",
+			"200",
+			"525252",
+			"database",
+			"rosterButton",
+			"name($mData['Username'])",
+			"statisticsContainer",
+			"log",
+			"rosterButton",
+			"rosterButtons button",
+			"user",
+			"'",
+			"div",
+			"(playerid, ",
+			"PlayerTextDraw",
+			"raceTime[playerid]",
+			"playerMapTime[1]",
+			"playerMapTime[0]",
+			"playerName[",
+			"playersVehicle",
+			"(playerid, ",
+			"PlayerTextDraw",
+			"raceTime[playerid]",
+			"< 60",
+			"playerIndex",
+			"< 70",
+			"PlayerTextDraw",
+			"(playerid, ",
+			"PlayerSpeed[playerid]",
+			"SpeedometerBars[playerid][speedometerBars]",
+			"SpeedometerBars[playerid][45]",
+			"(playerid, ",
+			"PlayerTextDraw",
+			"random(sizeof(shadeColors))",
+			"playerIndex",
+			"1.0",
+			"random(7)",
+			"red",
+			"playerIndex",
+			"red",
+			"roundResults[14]",
+			"roundResults[13]",
+			"roundResults[12]",
+			"roundResults[11]",
+			"roundResults[10]",
+			"roundResults[9]",
+			"roundResults[8]",
+			"roundResults[7]",
+			"roundResults[6]",
+			"roundResults[5]",
+			"roundResults[4]",
+			"roundResults[2]",
+			"roundResults[3]",
+			"roundResults[1]",
+			"roundResults[0]",
+			"clientMessage",
+			"MapPickups[",
+			"playerIndex",
+			"CreateObject",
+			"topPlayers[8]",
+			"~r~N/A",
+			"topPlayers[7]",
+			"topPlayers[6]",
+			"topPlayers[5]",
+			"topPlayers[4]",
+			"topPlayers[3]",
+			"topPlayers[2]",
+			"topPlayers[1]",
+			"topPlayers[0]",
+			"(playerid, ",
+			"PlayerTextDraw",
+			"bottomBarPoints[playerid]",
+			"PlayerTextDraw",
+			"(playerid, ",
+			"bottomBarTokens[playerid]",
+			"bottomBar[1]",
+			"bottomBar[0]",
+			"Red",
+			"LoginInterface[12]",
+			"LoginInterface[11]",
+			"LoginInterface[10]",
+			"LoginInterface[9]",
+			"LoginInterface[8]",
+			"LoginInterface[7]",
+			"LoginInterface[6]",
+			"LoginInterface[5]",
+			"LoginInterface[4]",
+			"LoginInterface[3]",
+			"LoginInterface[2]",
+			"LoginInterface[1]",
+			"LoginInterface[0]",
+			"true, \"UnusedQuery\", \"\"",
+			"CreateDynamicObject",
+			"police headquarters",
+			"government headquarters",
+			"playerIndex",
+			"random(255)",
+			"random(230)",
+			"hands %s",
+			"RoutePlayer",
+			"[rRouteMarker]",
+			"[rExistsPolygon]",
+			"[rRoutePolygon]",
+			"[rRouteLength]",
+			"[rDestination]",
+			"[rCalculatingRoute]",
+			"RouteInformation[",
+			"PlayerDamaged[",
+			"(playerid, ",
+			"PlayerTextDraw",
+			"PlayerDamaged[playerid]",
+			"(playerid, ",
+			"PlayerTextDraw",
+			"CreateTextDraw",
+			"CreatePlayerTextDraw",
+			"SpeedometerBars[playerid][0]",
+			"SpeedometerBars[playerid][1]",
+			"SpeedometerBars[playerid][2]",
+			"SpeedometerBars[playerid][3]",
+			"SpeedometerBars[playerid][4]",
+			"SpeedometerBars[playerid][5]",
+			"SpeedometerBars[playerid][6]",
+			"SpeedometerBars[playerid][7]"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "configuration/main.php",
+					"settings":
+					{
+						"buffer_size": 18934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18934,
+								16759
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7513.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/global.css",
+					"settings":
+					{
+						"buffer_size": 4415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4413,
+								4413
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4320.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "includes/footer.php",
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 6883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "thread.php",
+					"settings":
+					{
+						"buffer_size": 29278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1084,
+								1096
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 286.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "comment.php",
+					"settings":
+					{
+						"buffer_size": 9929,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9929,
+								9881
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4050.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "downloadattachment.php",
+					"settings":
+					{
+						"buffer_size": 1244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1095,
+								1095
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "newthread.php",
+					"settings":
+					{
+						"buffer_size": 8095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2388,
+								2388
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 721.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "postcomment.php",
+					"settings":
+					{
+						"buffer_size": 7879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3304,
+								3304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 111.0,
+						"translation.y": 1006.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "File Manager/download.php",
+					"settings":
+					{
+						"buffer_size": 2601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1059,
+								619
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 135.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,19 @@
+.captchaBox
+{
+	border: 1px solid lightgray;
+	background: #EBEBEB;
+
+	padding: 1px;
+}
+
+.captchaArrow
+{
+	background: #DADADA;
+
+	text-align: center;
+	font-size: 48px;
+
+	width: 50px;
+
+	padding: 10px 25px;
+}

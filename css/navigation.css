@@ -1,0 +1,13 @@
+.navigationBar
+{
+	background: #424242;
+}
+
+.navigationBar a
+{
+	display: inline-block;
+
+	color: #A9A9A9;
+
+	padding: 25px 30px;
+}

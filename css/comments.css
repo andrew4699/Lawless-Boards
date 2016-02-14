@@ -1,0 +1,141 @@
+.commentContainer
+{
+	background: #EFEFEF;
+}
+
+.commentDate
+{
+	background: #424242;
+
+	font-size: 13px;
+	color: white;
+
+	padding: 15px;
+}
+
+.commentDateHidden
+{
+	background: #E85F5F;
+
+	font-size: 13px;
+	color: white;
+
+	padding: 15px;
+}
+
+.commentMain
+{
+	border: 1px solid lightgray;
+	border-top: none;
+
+	min-height: 200px;
+
+	padding: 10px;
+}
+
+.commentMain td
+{
+	vertical-align: top;
+}
+
+.commentUser
+{
+	background: #E3E3E3;
+
+	padding: 10px;
+}
+
+.commentUser:hover
+{
+	background: #DFDFDF;
+}
+
+.commentText img
+{
+	max-width: 100%;
+}
+
+.commentScrollPost
+{
+	position: absolute;
+
+	margin: -55px 0px 0px 924px;
+}
+
+.commentLikeButton
+{
+	font-size: 24px;
+	color: #929292;
+
+	margin: 0px 50px 0px 0px;
+}
+
+.commentLikeButton:last-child
+{
+	margin: 0px 0px 0px 0px;
+}
+
+.commentLikeButton:hover
+{
+	color: #525252;
+
+	cursor: pointer;
+}
+
+.commentLikeButtonActive
+{
+	font-size: 24px;
+	color: black;
+
+	margin: 0px 50px 0px 0px;
+}
+
+.commentLikeButtonActive:last-child
+{
+	margin: 0px 0px 0px 0px;
+}
+
+.commentLikeButtonActive:hover
+{
+	cursor: default;
+}
+
+.commentControl
+{
+	font-size: 38px;
+	color: #929292;
+
+	margin: 0px 50px 0px 0px;
+}
+
+.commentControl:last-child
+{
+	margin: 0px 0px 0px 0px;
+}
+
+.commentControl:hover
+{
+	color: #525252;
+
+	cursor: pointer;
+}
+
+.commentControlEx
+{
+	font-size: 24px;
+	color: #929292;
+
+	margin: 0px 50px 0px 0px;
+}
+
+.commentControlEx:last-child
+{
+	margin: 0px 0px 0px 0px;
+}
+
+.commentControlEx:hover
+{
+	color: #525252;
+
+	cursor: pointer;
+}

@@ -1,0 +1,336 @@
+body
+{
+	background: #F6F6F6;
+
+	font: normal 14px FontAwesome, 'SegoeUIRegular', 'SegoeUISemilight', 'Lato', 'LatoLight', Helvetica, Arial, sans-serif;
+}
+
+*, *:focus
+{
+	outline: none;
+}
+
+a
+{
+	text-decoration: none;
+	color: inherit;
+}
+
+img
+{
+	border: none;
+
+	outline: none;
+}
+
+input, textarea, button
+{
+	font: normal 14px FontAwesome, 'SegoeUISemilight', 'SegoeUIRegular', 'Lato', 'LatoLight', Helvetica, Arial, sans-serif;
+}
+
+input[type=checkbox], input[type=radio]
+{
+	vertical-align: -10%;
+}
+
+table
+{
+	border: none;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-weight: normal;
+}
+
+#wrapper
+{
+	width: 1000px;
+
+	margin: 10px auto;
+}
+
+.hidden
+{
+	display: none;
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+.italic
+{
+	font-style: italic;
+}
+
+.underline
+{
+	text-decoration: underline;
+}
+
+.icon
+{
+	font: normal 14px FontAwesome, 'SegoeUISemilight', 'SegoeUIRegular', 'Lato', 'LatoLight', Helvetica, Arial, sans-serif;
+}
+
+.noselect
+{
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+}
+
+.nostyle
+{
+	padding: 0px;
+	margin: 0px;
+
+	list-style: none;
+}
+
+.nostyleitem
+{
+	display: inline;
+}
+
+.noresize
+{
+	resize: none;
+}
+
+.floatLeft
+{
+	float: left;
+}
+
+.floatRight
+{
+	float: right;
+}
+
+.inlineBlock
+{
+	display: inline-block;
+}
+
+.tdAlignTop td
+{
+	vertical-align: top;
+}
+
+.quote
+{
+	border: 1px solid lightgray;
+	background: #EBEBEB;
+
+	padding: 10px;
+}
+
+.pageTitle
+{
+	font: bold 22px FontAwesome, 'SegoeUISemilight', 'SegoeUIRegular', 'Lato', 'LatoLight', Helvetica, Arial, sans-serif;
+}
+
+.pageDescription
+{
+	font-size: 14px;
+}
+
+.box
+{
+	background: white;
+}
+
+.boxHeading
+{
+	background: #424242;
+
+	font-size: 15px;
+	color: white;
+
+	padding: 17px;
+}
+
+.boxSubHeading
+{
+	border: 1px solid lightgray;
+	border-top: none;
+
+	background: #F2F2F2;
+
+	font-size: 13px;
+	color: #797979;
+
+	padding: 10px 17px;
+}
+
+.boxMain
+{
+	border: 1px solid lightgray;
+	border-top: none;
+
+	padding: 10px 17px;
+}
+
+.boxArea
+{
+	border-top: 1px solid lightgray;
+
+	padding: 15px;
+}
+
+.boxArea:first-child
+{
+	border-top: none;
+}
+
+.boxFormInput
+{
+	border: 1px solid #A8A8A8;
+
+	font-size: 13px;
+
+	width: 280px;
+
+	padding: 5px;
+}
+
+.boxSmallBox
+{
+	border: 1px solid steelblue;
+
+	height: 50px;
+
+	padding: 10px;
+
+	overflow-y: scroll;
+}
+
+.boxButton
+{
+	border: 1px solid #A8A8A8;
+	background: #EAEAEA;
+
+	padding: 3px 7px;
+	margin: 5px 0px 0px 0px;
+}
+
+.boxButton:hover
+{
+	background: #EFEFEF;
+
+	cursor: pointer;
+}
+
+.boxTextArea
+{
+	border: 1px solid #A8A8A8;
+
+	width: 98.5%;
+	height: 100px;
+
+	padding: 5px;
+
+	resize: vertical;
+}
+
+.tooltip
+{
+	position: absolute;
+
+	background: #525252;
+
+	color: white;
+
+	padding: 6px 8px;
+}
+
+.zoomImage:hover
+{
+	cursor: pointer;
+	cursor: -moz-zoom-in;
+	cursor: -webkit-zoom-in;
+}
+
+.sectionList
+{
+	width: 100%;
+
+	padding: 5px;
+}
+
+.greenButton
+{
+	position: relative;
+
+	border: 1px solid rgba(0, 0, 0, 0.2);
+
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+
+	background: #62c462; /* Old browsers */
+	background: -moz-linear-gradient(top,  #62c462 0%, #51a351 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#62c462), color-stop(100%,#51a351)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #62c462 0%,#51a351 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #62c462 0%,#51a351 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #62c462 0%,#51a351 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #62c462 0%,#51a351 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#62c462', endColorstr='#51a351',GradientType=0 ); /* IE6-9 */
+
+	text-align: center;
+	font-size: 14px;
+	color: white;
+
+	padding: 6px 16px;
+
+	text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.25);
+
+	box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.2), 0px 1px 2px rgba(0, 0, 0, 0.05);
+	-moz-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.2), 0px 1px 2px rgba(0, 0, 0, 0.05);
+	-webkit-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.2), 0px 1px 2px rgba(0, 0, 0, 0.05);
+
+	overflow: hidden;
+}
+
+.greenButton:hover
+{
+	background-position: 0 -25px;
+
+	cursor: pointer;
+}
+
+.greenButton:active
+{
+	background: #62C462;
+}
+
+.progressBarOuter
+{
+	background: lightgray;
+
+	width: 100%;
+}
+
+.progressBarInner
+{
+	background: #43A6DF;
+
+	width: 0px;
+}
+
+.blueLink
+{
+	text-transform: lowercase;
+	font-size: 12px;
+	color: #43A6DF;
+}
+
+.blueLink:hover
+{
+	text-decoration: underline;
+}

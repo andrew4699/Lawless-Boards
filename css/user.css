@@ -1,0 +1,38 @@
+.userBox
+{
+	border: 1px solid lightgray;
+	background: white;
+
+	padding: 10px 15px;
+}
+
+.userName
+{
+	font-size: 20px;
+}
+
+.userTitles
+{
+	margin: 5px 0px 0px 0px;
+}
+
+.userAvatar
+{
+	width: 75px;
+	height: 49px;
+}
+
+.userMessageName
+{
+	color: #424242;
+}
+
+.userMessageBox
+{
+	background: #EBEBEB;
+
+	padding: 10px;
+	margin: 5px 0px 0px 0px;
+
+	word-wrap: break-word;
+}

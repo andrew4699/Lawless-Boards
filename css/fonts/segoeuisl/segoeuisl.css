@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'SegoeUISemilight';
+    src: url('segoeuisl.eot');
+    src: url('segoeuisl.eot') format('embedded-opentype'),
+         url('segoeuisl.woff') format('woff'),
+         url('segoeuisl.ttf') format('truetype'),
+         url('segoeuisl.svg#SegoeUISemilight') format('svg');
+}

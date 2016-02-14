@@ -1,0 +1,13 @@
+.attachmentsBox
+{
+	display: inline-block;
+
+	background: #43A6DF;
+
+	color: white;
+
+	width: 227px;
+
+	padding: 5px;
+	margin: 0px 2px 5px 0px;
+}

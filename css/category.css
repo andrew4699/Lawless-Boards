@@ -1,0 +1,35 @@
+.categoryTitle
+{
+	background: #43A6DF;
+
+	font-size: 15px;
+	color: white;
+
+	padding: 17px;
+}
+
+.categoryCollapse
+{
+	font-size: 16px;
+	color: #EBEBEB;
+
+	margin: 0px 0px 0px 600px;
+}
+
+.categoryCollapse:hover
+{
+	cursor: pointer;
+}
+
+.categoryDescription
+{
+	border: 1px solid lightgray;
+	border-top: none;
+
+	background: #F2F2F2;
+
+	font-size: 12px;
+	color: #797979;
+
+	padding: 10px 17px;
+}
