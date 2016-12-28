@@ -40,16 +40,6 @@ CREATE TABLE `accounts` (
 ) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=latin1;
 
 -- ----------------------------
--- Records of accounts
--- ----------------------------
-INSERT INTO `accounts` VALUES ('1', 'andrew4699', '32a1625b1b45bd2e8839924d50ce88329e1cb7179f6aba819da24e79142d3c5c1d427b44842c1a7e6fbd6d223cd535b70eb94a3623149046d1dfe1f41cdf5d90', 'Andrew', 'andrew_guterman@yahoo.com', '1999-04-06', 'United States', '-8.0', 'd68064201291ce47be8ac5d3918bcb49', '1', '', '127.0.0.1', '1380684575', 'http://www.jokeitup.com/wp-content/uploads/2013/02/Funny-Face-Dog.jpg', '0', 'hi lol this is my signature');
-INSERT INTO `accounts` VALUES ('2', 'shock', 'f9c3b1a3b54075cc8d53e8cb032560299d4b3a7b2aa38ff69bfc8170290cdf077988aece1f2c69685d5a9f6a1c8e68ac9b2dd2e7130df96af5199635bb580911', 'Shock', 'christianhammeryo@gmail.com', '1997-09-02', 'Norway', '-8.0', '79d37fb2893b428f7ea4ed3b07a84096', '1', 'Developer', '25.205.223.50', '1370883761', 'images/defaultavatar.jpg', null, null);
-INSERT INTO `accounts` VALUES ('3', 'Tefa', '0a25f55d7308eca6b9567a7ed3bd1b46327f0f1ffdc804dd8bb5af40e88d78b88df0d002a89e2fdbd5876c523f1b67bc44e9f87047598e7548298ea1c81cfd73', 'Tefa', 'jasonraymanz@gmail.com', '1996-01-30', 'Egypt', '-8.0', '747362c8d29bf10de1fd34c0a75b5259', '1', 'Feedback Team', '127.0.0.1', '1374105333', 'images/defaultavatar.jpg', null, null);
-INSERT INTO `accounts` VALUES ('4', 'Obie', '3a014710948fb7f7d184b5fb2c2bd14f8031fdd69b282f1fbbc98ee41684e9cdc919511e3399ba861e964c70bf177bf2e637c7bde8ab7a9883d5822f8c3a799d', 'Obie', 'obieswift97@gmail.com', '15th of January.', 'Egypt', '2.0', '9d7099d87947faa8d07a272dd6954b80', '1', 'Feedback Team', null, null, 'images/defaultavatar.jpg', null, null);
-INSERT INTO `accounts` VALUES ('5', 'Bruce_Stracci', '2f9959b230a44678dd2dc29f037ba1159f233aa9ab183ce3a0678eaae002e5aa6f27f47144a1a4365116d3db1b58ec47896623b92d85cb2f191705daf11858b8', 'Bruce_Stracci', 'brucengg@gmail.com', '1990-11-04', 'Argentina', '-3.0', '1f00a8929c259e8ea8bde168c76aff2b', '1', 'Feedback Team', '25.7.46.5', '1370749502', 'http://i2.kym-cdn.com/photos/images/newsfeed/000/557/159/3a1.gif', null, null);
-INSERT INTO `accounts` VALUES ('6', 'Aaron', 'cce08bba3f2e3c029cd257104b06d4b075772d5f514cf1b7789506f9a69d53c51464881d2c18445ab290553b302f67a24b1c69e3e737a46215deaf43517e4960', 'Aaron', 'aaron@fbi.al', '1937-02-20', 'United States', '-5.0', 'cba0a4ee5ccd02fda0fe3f9a3e7b89fe', '1', 'Feedback Team', '25.16.129.91', '1370798344', 'avatars/5/ss (2013-04-27 at 11.37.39).jpg', '0', 'This is a signature, test. \r\n#swag #yolo');
-
--- ----------------------------
 -- Table structure for attachments
 -- ----------------------------
 DROP TABLE IF EXISTS `attachments`;
